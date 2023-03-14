@@ -10,7 +10,11 @@ public class Main {
     public static void main(String[] args) {
         CCuenta cuenta1;
         double saldoActual;
-
+        
+        //Anado un print para verificar que se actualiza el contenido en GIT
+        System.out.println("Este mensaje debe agregarse "
+                + " al proyecto enlazado en GIT");
+        
         cuenta1 = new CCuenta("Antonio López", 
                 "1000-2365-85-1230456789", 2500, 0);
         saldoActual = cuenta1.estado();
