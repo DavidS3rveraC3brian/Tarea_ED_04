@@ -1,0 +1,4 @@
+Se adjuntan como demanda la actidad imagenes en formato .png
+como el documento Javadoc de la clase CCuenta es demasiado grande se ha tenido que repartir en varias imagenes,
+por ese mismo motivo, adjunto tambien en documento PDF la documentacion completa del JavaDoc de la clase CCuenta en un solo documento
+para facilitar su corrección y visualización
