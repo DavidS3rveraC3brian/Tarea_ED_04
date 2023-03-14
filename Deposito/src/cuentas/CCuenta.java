@@ -6,6 +6,7 @@ package cuentas;
 
 public class CCuenta {
 
+    //Los atributos de la clase CCuenta encapsulados de tipo private
     private String nombre;
     private String cuenta;
     private double saldo;
